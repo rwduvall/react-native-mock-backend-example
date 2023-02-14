@@ -9,7 +9,7 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-Sample project to show example of how to mock backends locally. Created using (expo TS example)[https://github.com/expo/examples/tree/master/with-typescript].
+Sample project to show example of how to mock backends locally. Created using [expo TS example](https://github.com/expo/examples/tree/master/with-typescript).
 
 ## How to run the project locally
 
