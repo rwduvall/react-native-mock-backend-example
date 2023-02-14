@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "price": "$16.99",
+      "name": "Mock All Day IPA",
+      "rating": { "average": 4.411243509154233, "reviews": 453 },
+      "image": "https://www.totalwine.com/media/sys_master/twmmedia/h00/h94/11891416367134.png",
+      "id": 1
+    },
+    {
+      "price": "$13.99",
+      "name": "Blue Mock Belgian White Belgian-Style Wheat Ale",
+      "rating": { "average": 4.775260833383482, "reviews": 305 },
+      "image": "https://www.totalwine.com/media/sys_master/twmmedia/he8/h67/11931543830558.png",
+      "id": 2
+    },
+    {
+      "price": "$16.99",
+      "name": "Guinness Extra Mock",
+      "rating": { "average": 3.9785961474594638, "reviews": 119 },
+      "image": "https://www.totalwine.com/media/sys_master/twmmedia/h50/h90/11996630056990.png",
+      "id": 3
+    }
+  ]
+}
